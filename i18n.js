@@ -110,7 +110,6 @@ window.I18N = {
     rawLabel: 'rohe Bytes', freeLabel: 'gebaute Bytes',
 
     warnRaw: 'Das schreibt rohe Bytes an die Befehls-Charakteristik des Rollers. Die Wirkung kann den Roller in einen unerwarteten Zustand bringen.',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt, und an keinem echten Gerät getestet. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Die Seite liest die Telemetrie des Rollers und kann in der Engine-Ebene rohe Schreib-Rahmen an den Controller senden; das tust du auf eigenes Risiko. Nutze alles nur am eigenen Fahrzeug. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. AUGMENT ist eine Marke des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu AUGMENT.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -232,7 +231,6 @@ window.I18N = {
     rawLabel: 'raw bytes', freeLabel: 'built bytes',
 
     warnRaw: 'This writes raw bytes to the scooter\'s command characteristic. The effect can put the scooter into an unexpected state.',
-    disclaimerText: 'This tool is a feasibility study, not a finished product, and tested on no real device. There is no warranty and no guarantee of error-free operation. The page reads the scooter telemetry and can send raw write frames to the controller at the engine level; you do that at your own risk. Use it only on your own vehicle. The page talks to the device locally over Bluetooth only, no data is sent to any server. AUGMENT is a trademark of its respective owner. This project is independent and not affiliated with AUGMENT.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
