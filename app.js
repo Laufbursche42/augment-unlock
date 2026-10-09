@@ -17,7 +17,7 @@
  */
 
 // Pre-commit cache-buster auto-bumps BUILD and every ?v= on any web-asset change.
-const BUILD = 'v2';
+const BUILD = 'v3';
 
 // --------------------------- UUIDs (proven from the app; Web Bluetooth wants lowercase) ---------------------------
 const U = {
